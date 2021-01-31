@@ -1,8 +1,3 @@
-# robofriends
-Tutorial for [ZTM's course on Udemy](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) - React
+# robofriends Using React Hooks
 
-To run the project:
-
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+This is an exercise of using React Hooks for [robofriends](https://github.com/ShaineTsou/robofriends) projects of [ZTM's course on Udemy](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) - React Hooks
